@@ -1,0 +1,24 @@
+    @font-face {
+    font-family: 'Quirky Robot Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Quirky Robot Regular'), url('Quirky Robot.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Digital dream Fat Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Digital dream Fat Regular'), url('DigitaldreamFat.woff') format('woff');
+    }
+
+    h1 {
+    	font-family:'Digital dream Fat Regular';
+    	color: #cbf595;
+    	font-weight: 500;
+    }
+
+    h4 {
+        color: white;
+        font-weight: 500;
+    }
