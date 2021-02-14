@@ -1,2 +1,2 @@
-#Robofriends App created with ReactJS.
+Robofriends App created with ReactJS.
 
